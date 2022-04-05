@@ -1,0 +1,4 @@
+github.com/go-chi/chi/v5 v5.0.7 h1:rDTPXLDHGATaeHvVlLcR4Qe0zftYethFucbjVQ1PxU8=
+github.com/go-chi/chi/v5 v5.0.7/go.mod h1:DslCQbL2OYiznFReuXYUmQ2hGd1aDpCnlMNITLSKoi8=
+github.com/hexops/vecty v0.6.0 h1:iiHfDOLEJufGy/hfPGzOTPkZe6rCszElYmUSzRQqK1w=
+github.com/hexops/vecty v0.6.0/go.mod h1:hVOPHAhrkXTf/9fl31Bpn2QvkW2ZOUZ0I3b3cohwCpI=
